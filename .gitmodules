@@ -4,3 +4,6 @@
 [submodule "teixeira_blog/themes/hugo-clarity"]
 	path = teixeira_blog/themes/hugo-clarity
 	url = https://github.com/chipzoller/hugo-clarity
+[submodule "themes/hugo-clarity2"]
+	path = themes/hugo-clarity2
+	url = https://github.com/chipzoller/hugo-clarity
