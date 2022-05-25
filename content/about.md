@@ -1,12 +1,12 @@
 +++
-title = "About"
+title = "Teixeira Junior"
 description = "Hugo, the world's fastest framework for building websites"
-date = "2019-02-28"
+date = "2021-05-24"
 aliases = ["about-us", "about-hugo", "contact"]
-author = "Hugo Authors"
+author = "Teixeira junior"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+Graduado em engenharia civil, venho de uma transição de carreira para a área de tecnologia da informação desde 2019, onde despertei a paixão por desenvolvimento de sistemas, atuando como desenvolvedor backend em Nodejs utilizando express, bancos de dados relacionais (Mysql, Postgres e mariaDb), versionamento com git, Docker e kubernetes além de Javascript, HTML e CSS.
 
 Hugo makes use of a variety of open source projects including:
 
